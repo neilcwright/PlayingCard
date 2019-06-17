@@ -1,3 +1,3 @@
-struct PlayingCard {
+public struct PlayingCard {
     var text = "Hello, World!"
 }
