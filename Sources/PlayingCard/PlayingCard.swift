@@ -1,3 +1,6 @@
+import Foundation
+
 public struct PlayingCard {
-    var text = "Hello, World!"
+   let rank: Rank
+   let suit: Suit
 }
